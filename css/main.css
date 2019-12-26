@@ -1,0 +1,51 @@
+---
+---
+
+{% include_relative modules.css %}
+{% include_relative grid.css %}
+{% include_relative type.css %}
+{% include_relative theme.css %}
+{% pattern_css %}
+
+.scrolling-limit{
+  overflow:hidden;
+  white-space:nowrap;
+}
+
+.scrolling{
+  position: relative;
+  -webkit-animation: scroll 14s infinite linear;;
+  -moz-animation: scroll 14s infinite linear;
+  -o-animation: scroll 14s infinite linear;
+  animation: scroll 14s infinite linear;
+}
+
+@keyframes scroll{
+    0%   {left: 1420px;}
+    100% {left: -1920px;}
+}
+@-webkit-keyframes scroll{
+    0%   {left: 1400px;}
+    100% {left: -1920px;}
+}
+
+.sc {
+  padding-top: 3px;
+}
+
+.scale {
+  transform: scale(0.9, 0.9);
+}
+
+.spoiler, .spoiler2{
+  color: black;
+  background-color:black;
+}
+
+.spoiler:hover{
+  color: white;
+  }
+
+.spoiler2:hover {
+  background-color:white;
+  }
