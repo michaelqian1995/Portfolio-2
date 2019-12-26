@@ -30,7 +30,7 @@ table {
 .button a {
   color: black;
   font-family: var(--font-primary);
-  padding-left: 25px;
+  padding-left: 10px;
   display: block;
 }
 
