@@ -41,7 +41,7 @@
 .btn {
   letter-spacing: 0.1em;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 17px;
   font-weight: bold;
   line-height: 20px;
   max-width: 160px;
@@ -131,7 +131,7 @@
 
 .effect03:hover{
   color: #fff;
-  background-color: #222;
+  background-color: #fff;
   animation: anim 0.25s cubic-bezier(0.68, -0.55, 0.265, 1.55) 0.1s infinite alternate;
 }
 .effect03:hover span{
