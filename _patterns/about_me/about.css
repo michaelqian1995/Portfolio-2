@@ -1,3 +1,7 @@
+.white-box {
+  height:90px;
+}
+
 .ff {
   font-family: var(--font-primary);
 }
@@ -26,6 +30,9 @@
   border-color: #E8E8E8;
 }
 
+.right-section {
+  background-color: white;
+}
 
 /*
 .high-light {

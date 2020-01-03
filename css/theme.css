@@ -15,7 +15,7 @@ body {
 
 html {
   font-family: var(--font-primary);
-  color: var(--color-secondary);
+
   background-color: var(--color-primary);
   overflow-x: hidden;
 }
@@ -25,26 +25,26 @@ code {
 }
 
 p {
-  color: var(--color-secondary);
+
 }
 
 h1 {
   font-family: var(--font-secondary);
   font-style: normal;
   font-weight: bold
-  color: var(--color-secondary);
+
 }
 
 h2, h3, h4, h5, h6 {
   font-family: var(--font-secondary);
   font-style: normal;
   font-weight: bold
-  color: var(--color-secondary);
+
 }
 
 ul, ol, dl {
   font-family: var(--font-secondary);
-  color: var(--color-secondary);
+
 }
 
 a,
@@ -59,18 +59,18 @@ blockquote, cite {
   font-family: var(--font-primary);
   font-style: normal;
   font-weight: normal;
-  color: var(--color-secondary);
+
 }
 
 q {
   font-family: var(--font-primary);
   font-style: italic;
   font-weight: normal;
-  color: var(--color-secondary);
+
 }
 
 em, strong, del, ins, abbr, dfn, i, b, mark, s, u {
   font-family: var(--font-primary);
   font-weight: normal;
-  color: var(--color-secondary);
+
 }
