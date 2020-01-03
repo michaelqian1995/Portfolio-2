@@ -15,8 +15,17 @@ body {
 
 html {
   font-family: var(--font-primary);
+  color: var(--color-secondary);
   background-color: var(--color-primary);
   overflow-x: hidden;
+}
+
+code {
+  color: var(--color-secondary);
+}
+
+p {
+  color: var(--color-secondary);
 }
 
 h1 {

@@ -1,3 +1,35 @@
-.foot-col {
-  color: var(--color-primary);
+.grey-bkg {
+  background-color: var(--color-primary);
+  color: white;
+}
+
+.foot {
+  font-family: var(--font-secondary);
+}
+
+.white-text {
+  color: white;
+  font-weight: light;
+}
+
+.pad-l-icon {
+  padding-left: 5px;
+}
+
+.pad-r-icon {
+  padding-right: 5px;
+}
+
+.ltn-svg {
+  color: white;
+}
+
+i {
+  fill: white;
+}
+
+.ltn-svg:hover {
+  fill: white;
+  transform: scale(1.08);
+  transition: all 150ms linear;
 }
