@@ -1,0 +1,29 @@
+.text {
+  position: absolute;
+  opacity: 0;
+}
+
+.text-color {
+  color: #ffff;
+}
+
+h3 {
+  font-family: var(--font-primary);
+  font-weight: bold;
+  line-height: 2rem;
+}
+
+.container:hover {
+  transition: .3s ease;
+  z-index: 1;
+}
+
+.container:hover .text {
+  transition: .3s ease;
+  opacity: 1;
+}
+
+.container:hover .image {
+  transition: .3s ease;
+  filter: brightness(20%);
+}
