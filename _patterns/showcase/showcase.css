@@ -1,7 +1,9 @@
 .showcase-header {
   font-family: var(--font-secondary);
+  font-weight: bold;
 }
 
 .showcase-p {
   font-family: var(--font-primary);
+  font-weight: bold;
 }
