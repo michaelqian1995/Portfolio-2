@@ -8,12 +8,15 @@
 }
 
 .po {
+  background-color: white;
   width: 8em;
   position:absolute;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
 }
+
+
 
 @keyframes walk-cycle {
   0% {background-position: 0 0; }

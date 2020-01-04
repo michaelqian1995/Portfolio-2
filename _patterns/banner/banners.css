@@ -6,3 +6,7 @@
   background-color: var(--color-primary);
   color: White;
 }
+
+.transformed {
+  background-color: black;
+}
