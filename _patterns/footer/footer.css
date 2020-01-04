@@ -9,7 +9,7 @@
 
 .white-text {
   color: white;
-  font-weight: light;
+  font-weight: bold;
 }
 
 .pad-l-icon {
@@ -32,4 +32,15 @@ i {
   fill: white;
   transform: scale(1.08);
   transition: all 150ms linear;
+}
+
+
+@media only screen and (min-width: 30em) {
+
+  .right-center {
+    display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
 }
