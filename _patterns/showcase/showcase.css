@@ -7,3 +7,12 @@
   font-family: var(--font-primary);
   font-weight: bold;
 }
+
+.page {
+  font-family: var(--font-secondary);
+  font-weight: 500;
+}
+
+.bg-fronter {
+  background-color: #f5f2e4；
+}
