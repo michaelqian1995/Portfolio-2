@@ -34,6 +34,11 @@ i {
   transition: all 150ms linear;
 }
 
+.icon-center,
+.copyright-center {
+  text-align: center;
+}
+
 @media only screen and (min-width: 90em) {
 
 .center {
@@ -49,7 +54,11 @@ i {
 }
 
 .icon-center{
+  text-align: right;
+}
 
+.copyright-center {
+  text-align: left;
 }
 
 }
