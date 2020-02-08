@@ -56,7 +56,7 @@ body {
   padding: 0;
 }
 .mob {
-  font-family: var(--font-secondary)
+  font-family: var(--font-secondary);
   text-decoration: none;
   color: black;
   opacity:1;
