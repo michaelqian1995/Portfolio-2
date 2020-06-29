@@ -15,7 +15,6 @@ body {
 
 html {
   font-family: var(--font-primary);
-
   background-color: white;
   overflow-x: hidden;
 }

@@ -1,6 +1,8 @@
-.ff {
-  font-family: var(--font-primary);
+.ss {
+  font-family: var(--font-secondary);
 }
+
+
 
 .co {
   color: black;
@@ -50,11 +52,11 @@
 }
 
 .skill li {
-  font-family: var(--font-primary);
+
   list-style-type:none;
 }
 .my-skill h2 {
-  font-family: var(--font-primary);
+
   font-weight: 600;
   margin-top: 0px;
 }
@@ -79,7 +81,7 @@
 /*skill*/
 
 .skill li {
-  font-family: var(--font-primary);
+
   position: relative;
   text-transform: capitalize;
   color: #fff;
