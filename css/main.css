@@ -49,3 +49,17 @@
 .spoiler2:hover {
   background-color:white;
   }
+
+.video-box {
+  height: 180px;
+  width:320px;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .video-box {
+    height: 360px;
+    width:640px;
+  }
+
+}
