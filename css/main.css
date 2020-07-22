@@ -7,6 +7,10 @@
 {% include_relative theme.css %}
 {% pattern_css %}
 
+html {
+  cursor: none;
+}
+
 .scrolling-limit{
   overflow:hidden;
   white-space:nowrap;
