@@ -11,7 +11,7 @@
   transform: translate(-50%, -50%);
   transition: .1s;
   display: none;
-  z-index: 2;
+  z-index: 4;
 }
 
 .cursor2{
@@ -27,7 +27,7 @@
   transform: translate(-50%, -50%);
   transition: .15s;
   display: none;
-  z-index: 2;
+  z-index: 4;
 }
 
 .content:hover ~ .cursor{
