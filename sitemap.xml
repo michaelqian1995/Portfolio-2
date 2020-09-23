@@ -1,12 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <url>
-    <loc>https://qian-design.com/</loc>
-    <lastmod>2019-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+
+<url>
+  <loc>https://qian-design.com/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/about-me/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/mystery-shack/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/no-to-nukes/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/404/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/isometric-art-work-remake/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/motion-reel/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/when-you-die/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/frontier-trails/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/isometric-art-work/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/cyber-art-work/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/sing-ottawa/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/who-we-are-in-dark/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/graduation_phobia/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/ar-project/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/kivengates/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/reaction-poster/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/magazine-6/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/magazine-7/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/magazine-8/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://qian-design.com/bio-sheet/</loc>
+  <lastmod>2020-09-23T21:23:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 
 </urlset>
