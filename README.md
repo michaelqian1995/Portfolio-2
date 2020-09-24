@@ -14,4 +14,4 @@ Good at acquiring knowledge from the field of communication science, coupled wit
 
 ---
 
-@Qian ZhaoCheng
+@QianZhaoCheng
