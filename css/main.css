@@ -24,6 +24,12 @@ html {
   animation: scroll 14s infinite linear;
 }
 
+.qr-code {
+  display: block;
+  width: 80%;
+}
+}
+
 @keyframes scroll{
     0%   {left: 1420px;}
     100% {left: -1920px;}

@@ -339,7 +339,7 @@ select {
 
 .push-right,
 .push-r {
-  margin-right: 1.3rem;
+  margin-right: .3rem;
 }
 
 
@@ -366,10 +366,8 @@ select {
 
 .push-left,
 .push-l {
-  margin-left: 1.3rem;
+  margin-left: .3rem;
 }
-
-
 
 .pad-top,
 .pad-t {
