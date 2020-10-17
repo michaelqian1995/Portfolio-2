@@ -342,6 +342,35 @@ select {
   margin-right: 1.3rem;
 }
 
+
+
+.push-left-eighth,
+.push-l-1-8 {
+  margin-left: .1625rem;
+}
+
+.push-left-quarter,
+.push-l-1-4 {
+  margin-left: .325rem;
+}
+
+.push-left-half,
+.push-l-1-2 {
+  margin-left: .65rem;
+}
+
+.push-left-three-quarters,
+.push-l-3-4 {
+  margin-left: .975rem;
+}
+
+.push-left,
+.push-l {
+  margin-left: 1.3rem;
+}
+
+
+
 .pad-top,
 .pad-t {
   padding-top: 1.3rem;
@@ -443,8 +472,12 @@ textarea {
 
 .gutter-double,
 .gutter-2 {
+  padding-left: .6rem;
+  padding-right: .6rem;
+  /*
   padding-left: 2.6rem;
   padding-right: 2.6rem;
+  */
 }
 
 .gutter-three-quarters,
@@ -757,6 +790,35 @@ legend {
     margin-right: 1.4rem;
   }
 
+
+
+  .push-left-eighth,
+  .push-l-1-8 {
+    margin-left: .175rem;
+  }
+
+  .push-left-quarter,
+  .push-l-1-4 {
+    margin-left: .35rem;
+  }
+
+  .push-left-half,
+  .push-l-1-2 {
+    margin-left: .7rem;
+  }
+
+  .push-left-three-quarters,
+  .push-l-3-4 {
+    margin-left: 1.05rem;
+  }
+
+  .push-left,
+  .push-l {
+    margin-left: 1.4rem;
+  }
+
+
+
   .pad-top,
   .pad-t {
     padding-top: 1.4rem;
@@ -860,6 +922,8 @@ legend {
   .gutter-2 {
     padding-left: 2.8rem;
     padding-right: 2.8rem;
+    /*
+    */
   }
 
   .gutter-three-quarters,
@@ -1173,6 +1237,35 @@ legend {
   .push-r {
     margin-right: 1.5rem;
   }
+
+
+
+  .push-left-eighth,
+  .push-l-1-8 {
+    margin-left: .1875rem;
+  }
+
+  .push-left-quarter,
+  .push-l-1-4 {
+    margin-left: .375rem;
+  }
+
+  .push-left-half,
+  .push-l-1-2 {
+    margin-left: .75rem;
+  }
+
+  .push-left-three-quarters,
+  .push-l-3-4 {
+    margin-left: 1.125rem;
+  }
+
+  .push-left,
+  .push-l {
+    margin-left: 1.5rem;
+  }
+
+
 
   .pad-top,
   .pad-t {
@@ -1589,6 +1682,31 @@ legend {
   .push-right,
   .push-r {
     margin-right: 1.5rem;
+  }
+
+  .push-left-eighth,
+  .push-l-1-8 {
+    margin-left: .1875rem;
+  }
+
+  .push-left-quarter,
+  .push-l-1-4 {
+    margin-left: .375rem;
+  }
+
+  .push-left-half,
+  .push-l-1-2 {
+    margin-left: .75rem;
+  }
+
+  .push-left-three-quarters,
+  .push-l-3-4 {
+    margin-left: 1.125rem;
+  }
+
+  .push-left,
+  .push-l {
+    margin-left: 1.5rem;
   }
 
   .pad-top,
