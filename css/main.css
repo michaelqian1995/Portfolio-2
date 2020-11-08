@@ -28,7 +28,6 @@ html {
   display: block;
   width: 50%;
 }
-}
 
 @keyframes scroll{
     0%   {left: 1420px;}

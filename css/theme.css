@@ -23,8 +23,8 @@ code {
   color: var(--color-secondary);
 }
 
-p {
-
+.bg-col {
+  background-color: var(--color-primary-light);
 }
 
 h1 {
