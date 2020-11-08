@@ -157,6 +157,10 @@ svg.img-flex {
   padding-top: 100%; /* Square */
 }
 
+.embed-1by2 {
+  padding-top: 200%;
+}
+
 .embed-4by3, .embed--4by3 {
   padding-top: 75%; /* Traditional TV/computer screens */
 }
