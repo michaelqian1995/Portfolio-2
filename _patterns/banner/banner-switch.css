@@ -1,0 +1,16 @@
+.desktop-banner {
+  display: none;
+}
+
+
+@media only screen and (min-width: 60em) {
+
+  .desktop-banner{
+    display: inline-block;
+  }
+
+  .mobile-banner {
+    display: none;
+  }
+
+}
