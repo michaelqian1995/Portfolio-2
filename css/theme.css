@@ -73,3 +73,9 @@ em, strong, del, ins, abbr, dfn, i, b, mark, s, u {
   font-weight: normal;
 
 }
+
+p {
+  font-family: var(--font-secondary);
+  font-style: normal;
+  font-weight: normal;
+}
